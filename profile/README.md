@@ -1,4 +1,4 @@
-## Hi mulpan 👋
+## Hello <!-- mulpan -->👋
 <img src="https://github.com/MulpansFan/.github/blob/main/profile/mulpanjump.gif?raw=true" alt="mulpan" />
 <!--
 
